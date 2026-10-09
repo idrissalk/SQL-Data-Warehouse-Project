@@ -3,9 +3,8 @@
 A complete **Data Warehouse and Analytics** project built with **SQL Server**, following a **Bronze → Silver → Gold** architecture.
 
 ## 🏗️ Architecture
+<img width="1119" height="582" alt="image" src="https://github.com/user-attachments/assets/9e3658a7-73a1-419c-a9c2-b935ccd8a4b4" />
 
-![Data Architecture](<img width="1119" height="582" alt="image" src="https://github.com/user-attachments/assets/9e3658a7-73a1-419c-a9c2-b935ccd8a4b4" />
-)
 
 * **Bronze:** Raw data ingestion from CSV files
 * **Silver:** Data cleaning, transformation and standardization
